@@ -1,0 +1,32 @@
+{
+  "recipes": [
+    {
+      "id": "da7b",
+      "title": "Shawarma",
+      "description": "popular Middle Eastern dish of meat that's stacked on a vertical rotisserie, sliced, and served in a sandwich or wrap",
+      "rate": "70",
+      "imageUrl": "https://lifeloveandgoodfood.com/wp-content/uploads/2020/04/Chicken-Shawarma_09_1200x1200.jpg"
+    },
+    {
+      "title": "Mandhi",
+      "description": "Mandi is a traditional dish of meat and rice with a special blend of spices that originated in the Hadhramaut region of Yemen",
+      "rate": "399",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZDwfL86kwYaChRcgXE5luZlku7RktbzhcJaW_8Kv7iQYNrFp0rykH4Q1gJoKpg8c5ruo4qxxVp74SrdCi7I-h_Qg_Lw6eicHtoSbhzGFRg3yNB89HXp8TthaczVO7I3SCly_Gmorxb2rL/s1600/II1A0998-1.jpg",
+      "id": "IGKcJWC"
+    },
+    {
+      "title": "Biriyani",
+      "description": "a flavorful, aromatic, and celebratory dish of rice, meat, and spices that originated in the Indian subcontinent",
+      "rate": "200",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL64QU2oeAYPk289-33qxDbTyU6m0R6o13TQ&s",
+      "id": "3Fi5R71"
+    },
+    {
+      "title": "Pasta",
+      "description": "A staple food made from flour and water, and sometimes eggs, that is formed into various shapes and boiled or baked",
+      "rate": "250",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEnVHasapIHaSrmSbhSG3dx3GYfxxpbd82lg&s",
+      "id": "z2lzaOV"
+    }
+  ]
+}
